@@ -1,3 +1,3 @@
 # Jogo Da Memoria De times
-Desenvolvido com JavaScript
+### Desenvolvido com JavaScript
 Espero que goste :)
